@@ -13,11 +13,11 @@ Original image (1024x678):
 
 ![Original](./image1.jpg)
 
-100 pixels removed vertically (1024x578):
+100 pixels removed from height (1024x578):
 
 ![Original](./image1-h.jpg)
 
-100 pixels removed horizontally (924x678):
+100 pixels removed from width (924x678):
 
 ![Original](./image1-v.jpg)
 
@@ -26,11 +26,11 @@ Original image (1024x678):
 
 ![Original](./image2.jpg)
 
-100 pixels removed vertically (1024x578):
+100 pixels removed from height (1024x578):
 
 ![Original](./image2-h.jpg)
 
-100 pixels removed horizontally (924x678):
+100 pixels removed from width (924x678):
 
 ![Original](./image2-v.jpg)
 
