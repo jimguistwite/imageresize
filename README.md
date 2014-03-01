@@ -1,7 +1,7 @@
 Content Aware Image Resize in Scala
 ===================================
 
-Based on work from a Coursera algorithms class take, this code
+Based on work from a Coursera algorithms class, this code
 demonstrates how to resize images vertically or horizontally while
 preserving the most significant content in the image and maintaining
 the aspect ratio of the image.
@@ -20,6 +20,20 @@ Original image (1024x678):
 100 pixels removed horizontally (924x678):
 
 ![Original](./image1-v.jpg)
+
+
+Original image (1024x678):
+
+![Original](./image2.jpg)
+
+100 pixels removed vertically (1024x578):
+
+![Original](./image2-h.jpg)
+
+100 pixels removed horizontally (924x678):
+
+![Original](./image2-v.jpg)
+
 
 
 License

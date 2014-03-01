@@ -18,7 +18,7 @@ import org.scalatest.junit.JUnitRunner
 class NodeScalaSuite extends FunSuite {
 
   test("Large images should resize properly") {
-    Array("F1", "F5").foreach(nm => {
+    Array("F1", "F4").foreach(nm => {
       val in = new File(s"src/test/data/${nm}.jpg")
       val vout = new File(s"src/test/data/${nm}v.jpg")
       val hout = new File(s"src/test/data/${nm}h.jpg")
